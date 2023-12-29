@@ -34,7 +34,7 @@ def run():
 
     openai_api_key = st.sidebar.text_input('OpenAI API Key')
 
-    st.title('🤖 Personal Assistant')
+    st.title('Personal Assistant')
 
     st.header('✉️ Emails correction')
 

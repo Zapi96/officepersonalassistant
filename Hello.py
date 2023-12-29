@@ -14,9 +14,6 @@
 
 import streamlit as st
 from streamlit.logger import get_logger
-import openai
-from redlines import Redlines
-import clipboard
 from chatgpt import get_completion_from_messages
 from emails_correction import emails_correction
 
